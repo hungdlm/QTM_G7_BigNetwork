@@ -28,9 +28,9 @@
 ### II. CÁC CÔNG VIỆC SẼ TRIỂN KHAI TRONG TUẦN 2
    1. Cả nhóm bắt đầu thực hiện công đoạn 1 đã chia trước đó.
    2. Sắp xếp nội dung và thời gian cho buổi thảo luận tuần 2.
-    * Tuần 2 cần phải làm gì tiếp?
-    * Đặt ra thời gian hoàn thành.
-    * Tìm giải pháp nếu có rủi ro xảy ra.  
+   * Tuần 2 cần phải làm gì tiếp?
+   * Đặt ra thời gian hoàn thành.
+   * Tìm giải pháp nếu có rủi ro xảy ra.  
 ### III. KHÓ KHĂN GẶP PHẢI TRONG TUẦN 1
    1. Vì dự án hoàn toàn mới với cả 8 thành viên, cả nhóm khó khăn trong việc đọc hiểu đề bài và phân chia công đoạn.
    2. Cả nhóm chưa tìm ra giải pháp trao đổi công việc.
