@@ -22,6 +22,7 @@
       * Học cách sử dụng công cụ Packet Tracer
       * Tìm cách tương tác và trao đổi công việc giữa các thành viên.
       * Đọc hiểu tài liệu thầy cho trước trong Packet Tracer.
+      * ![Docs](https://github.com/dolemanhhung/QTM_G7_BigNetwork/blob/637f909eabc78c7cc83cf9e5769384213b2556fc/Topo%20PT.jpg)
    3. Tổng hợp những khó khăn của tuần 1 
    4. Viết báo cáo.
 ### II. CÁC CÔNG VIỆC SẼ TRIỂN KHAI TRONG TUẦN 2
