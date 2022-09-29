@@ -7,7 +7,7 @@
          + Tìm hiểu về các thiết bị
          + Dựng các khối thiết bị
          + Nối dây phù hợp với các thiết bị
-   ![File here](Link)
+         
       
    2. Tổng hợp những khó khăn của tuần 2 
    3. Viết báo cáo.
